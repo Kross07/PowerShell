@@ -14,14 +14,14 @@ $unwantedApps = @(
     "*MoviesTV*",
     "*SpotifyMusic*",
     "*windowscommunicationsapps*",
-	"*Microsoft.Getstarted*",
-	"*Clipchamp*",
-	"*ZuneVideo*",
-	"*MicrosoftOfficeHub*",
-	"*WindowsAlarms*",
-	"*WindowsCamera*",
-	"*YourPhone*",
-	"*Todos*"
+    "*Microsoft.Getstarted*",
+    "*Clipchamp*",
+    "*ZuneVideo*",
+    "*MicrosoftOfficeHub*",
+    "*WindowsAlarms*",
+    "*WindowsCamera*",
+    "*YourPhone*",
+    "*Todos*"
 )
 
 foreach ($appPattern in $unwantedApps) {
